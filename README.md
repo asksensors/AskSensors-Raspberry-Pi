@@ -1,3 +1,12 @@
-# Raspberry-Pi
-- Get Started: https://asksensors.com/
-- Connect Raspberry Pi to Asksensors: https://www.instructables.com/id/Connect-Raspberry-Pi-to-Asksensors-IoT-Platform-Us/
+# AskSensors Raspberry-Pi API
+Connect Raspberry Pi to AskSensors.
+
+Requirements:
+-
+- Create AskSensors account: https://asksensors.com
+- Install node.js: https://nodejs.org/en/download/
+- Install HTTPS npm package: https://www.npmjs.com/package/https
+
+Step-by-step tutorials:
+-
+- Send Data using node.js HTTPS: https://www.instructables.com/id/Connect-Raspberry-Pi-to-Asksensors-IoT-Platform-Us/
