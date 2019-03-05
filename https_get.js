@@ -19,7 +19,7 @@ function send_data(){
 	var url = host + '/api.asksensors/write/';	
 		url+= ApiKeyIn;
 		url+= '?module1='
-		url+= 100*Math.random();//module1++;
+		url+= module1++;//100*Math.random();
 	console.log('Data sent to:' + url);
 	request(url, { json: true }, (err, res, body) => {
 	  if (err) { return console.log(err); }
