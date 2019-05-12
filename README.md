@@ -1,6 +1,10 @@
 # AskSensors Raspberry-Pi API
 Connect Raspberry Pi to AskSensors.
 
+Documentation:
+-
+- https://asksensors.com/doc/Documentation.html
+
 Requirements:
 -
 - Create AskSensors account: https://asksensors.com
